@@ -1,0 +1,1001 @@
+Athlete_ID,FirstName,LastName,Ath_Height,Ath_Weight,Age,Gender,Sport_Type,Nationality,Team_Name
+00000,Lucrecia,Delbridge,181,56.05,45,M,Boxing,Thai,Pheonix FC
+00001,Seth,Harris,172,84.94,25,M,VolleyBall,Thai,Underdogs Sport
+00002,Janice,Rodriguez,180,77.61,32,M,Basketball,Thai,GG Sport
+00003,Margaret,Tullar,179,71.47,27,M,Boxing,Thai,The Best Team
+00004,Felix,Smith,198,51.59,19,M,Basketball,Thai,FairPlay Sport
+00005,Jack,Stow,193,77.35,28,F,Boxing,Thai,Beyonder
+00006,Christopher,Marker,162,46.65,44,F,Badminton,Thai,ICT Sport
+00007,James,Betz,197,43.41,36,F,VolleyBall,Thai,Good Team
+00008,Erna,Lively,169,65.09,35,M,Football,Thai,Beyonder
+00009,Samuel,Hebert,165,94.39,38,M,Athletic,Thai,Batman Sport
+00010,Gregory,Scott,195,85.93,20,F,Boxing,Thai,Big Boom FC
+00011,Brian,Tidwell,153,98.12,34,M,Football,Thai,MM Sport
+00012,Amy,Tejera,156,42.58,21,M,Tennis,Thai,CC Sport
+00013,Kristen,Ward,178,52.6,28,M,Badminton,American,MM Sport
+00014,Johnnie,Torres,177,90.23,45,F,Tennis,Thai,GG Sport
+00015,Jose,Barrett,154,56.68,21,M,PingPong,Japanese,Batman Sport
+00016,Mary,Libel,156,46.41,34,M,PingPong,Thai,KingKong Sport
+00017,Aaron,Ochwat,161,65.77,41,F,VolleyBall,Thai,Mahidol Sport
+00018,Kelly,Cook,192,67.38,44,F,Tennis,Thai,Man Uay FC
+00019,Richard,Gerber,193,44.08,19,F,Badminton,Thai,Underdogs Sport
+00020,Christina,Carney,152,90.49,17,M,Tennis,Thai,Underdogs Sport
+00021,Robert,Piedra,186,91.04,18,M,Badminton,Canadian,Rich Kid
+00022,Johnnie,Nieves,187,96.42,38,M,Basketball,Thai,Green Velvet
+00023,James,Anderson,181,94.17,33,M,PingPong,Thai,CC Sport
+00024,Elsa,Michaud,166,81.29,17,F,Badminton,Thai,Mahidol Sport
+00025,Johnnie,Friel,172,49.5,35,M,Basketball,Thai,GG Sport
+00026,Marilyn,Martinez,195,49.68,37,M,Badminton,Thai,Big Boom FC
+00027,John,Beardsley,200,60.9,33,M,Badminton,Thai,Big Boom FC
+00028,Jamie,Sumner,173,71.49,17,F,Badminton,Canadian,Arm Sport
+00029,Paul,Hill,161,46.08,23,F,PingPong,Thai,Arm Sport
+00030,Myrna,Gage,178,52.8,23,F,Tennis,Thai,Mahidol Sport
+00031,Betty,Batista,160,84.1,18,F,Basketball,Japanese,Easy Team
+00032,Rose,Viviano,165,52.26,35,F,Football,Korean,The Best Team
+00033,Mary,Mackenzie,157,92.85,32,M,Basketball,Thai,Big Boom FC
+00034,Bryce,Hoover,180,91.36,34,M,Tennis,Thai,Big Boom FC
+00035,Tiffany,Wall,154,94.46,20,M,PingPong,Thai,Rich Kid
+00036,Juan,Murders,175,83.36,28,F,PingPong,Thai,ICT Sport
+00037,Jody,Belair,172,92.24,45,F,PingPong,Thai,Mahidol Sport
+00038,Sean,Randall,168,94.88,20,F,PingPong,Thai,One Above All
+00039,Michael,Quale,168,73.57,31,F,PingPong,Thai,MM Sport
+00040,John,Collini,164,58.24,40,M,Badminton,Thai,FairPlay Sport
+00041,Melvin,Williams,200,60.58,31,F,PingPong,Thai,Green Velvet
+00042,Corey,Cooper,155,85.21,25,M,Tennis,Thai,Pheonix FC
+00043,James,Roland,169,68.92,16,F,Football,Thai,Easy Team
+00044,Leonia,Triplett,200,76.68,44,M,Badminton,Thai,Rich Kid
+00045,Francisco,Berry,152,79.81,36,F,Tennis,Thai,Man Uay FC
+00046,Matthew,Sweeney,166,97.61,17,F,Basketball,Thai,One Above All
+00047,Clement,Halls,157,54.65,24,M,Athletic,Thai,Mahidol Sport
+00048,Marilyn,Buckley,189,75.57,45,F,Tennis,Thai,Batman Sport
+00049,John,Connor,186,96.45,28,M,Tennis,Thai,CC Sport
+00050,Ruby,Torrez,166,82.37,16,F,Athletic,Thai,Green Velvet
+00051,Emmett,Smith,198,47.69,41,F,Basketball,Thai,Good Team
+00052,Walter,Hubbard,168,72.56,28,F,Basketball,Thai,Green Velvet
+00053,Eduardo,Schuler,166,87.92,32,F,Athletic,Thai,Pheonix FC
+00054,Susan,Hopkins,171,89.61,20,M,Basketball,Thai,KingKong Sport
+00055,David,Beu,182,43.15,18,F,Badminton,Thai,Rama Sport
+00056,Freda,Robles,151,86.33,29,M,PingPong,German,Arm Sport
+00057,Emma,Lescarbeau,192,46.03,17,M,Football,Thai,MM Sport
+00058,Jonathan,Winchenbach,190,86.47,16,F,Basketball,Thai,Pheonix FC
+00059,Kristi,Mcwaters,150,92.65,25,F,Badminton,Thai,Uefa191
+00060,Lynne,Ledbetter,162,96.71,27,F,VolleyBall,Thai,The Best Team
+00061,James,Uelmen,169,55.67,34,M,Football,Thai,Rama Sport
+00062,Mark,Seger,169,74.85,31,M,Tennis,Thai,KingKong Sport
+00063,Daisy,Lewis,197,57.41,26,M,VolleyBall,Thai,FairPlay Sport
+00064,Jessie,Lynch,196,71.1,21,M,Tennis,Thai,MM Sport
+00065,Dana,Otey,179,92.27,45,F,VolleyBall,Thai,Uefa191
+00066,Micheal,Burt,197,69.16,20,M,VolleyBall,Thai,Rama Sport
+00067,Alyssa,Mendez,160,94.3,28,M,Basketball,Thai,Big Boom FC
+00068,Robert,Ponder,156,92.92,28,M,VolleyBall,Thai,The Best Team
+00069,Tammy,Dixon,168,78.68,20,F,Badminton,Thai,One Above All
+00070,Carlos,Beamon,155,59.71,27,M,Football,Thai,Arm Sport
+00071,Cody,Yale,171,57.66,31,M,Tennis,Thai,Big Boom FC
+00072,Randy,Gaffney,176,51.17,34,M,Badminton,Thai,Rich Kid
+00073,William,Wakefield,158,51.36,33,M,Tennis,Thai,Beyonder
+00074,Dawn,William,166,59.12,16,M,VolleyBall,Thai,Superman
+00075,Benjamin,Aromin,156,99.17,26,F,Basketball,Thai,Uefa191
+00076,Candy,Sorrell,162,57.57,27,M,VolleyBall,Thai,Arm Sport
+00077,Kelly,Kim,151,40.83,39,M,Tennis,Canadian,Underdogs Sport
+00078,Marian,Delosh,160,97.2,35,F,Badminton,Thai,Man Uay FC
+00079,Muriel,Julian,200,47.76,30,M,VolleyBall,Thai,One Above All
+00080,Tammie,Finley,170,69.31,23,M,PingPong,Thai,ICT Sport
+00081,Emelda,Winward,168,54.3,20,M,Football,Thai,Green Velvet
+00082,Neva,Bliss,197,97.52,22,M,Athletic,Thai,Uefa191
+00083,Audrey,Gunning,191,61.2,41,F,PingPong,Thai,MM Sport
+00084,Timothy,Loughlin,200,95.26,27,M,Basketball,Thai,MM Sport
+00085,Eduardo,Lenior,191,82.22,41,M,Athletic,Thai,FairPlay Sport
+00086,Patrick,Holder,152,87.99,22,M,Basketball,Thai,KingKong Sport
+00087,Evelyn,Linton,157,41.69,34,M,Tennis,Thai,The Best Team
+00088,Olivia,Schramm,186,81.99,21,M,Tennis,Thai,Green Sport
+00089,Karla,Mccoy,193,84.5,32,M,VolleyBall,Thai,One Above All
+00090,Thomas,Olson,190,99.24,36,F,Football,Thai,Good Team
+00091,Clara,Smith,192,47.55,28,M,Badminton,Thai,The Best Team
+00092,Jennifer,Brown,158,55.14,39,F,Basketball,Thai,Big Boom FC
+00093,Nancy,Seto,192,49.77,33,M,Football,Thai,Batman Sport
+00094,Melissa,Kenan,151,92.22,41,M,Boxing,Thai,Big Boom FC
+00095,Jesse,Wunderlich,189,41.28,44,M,VolleyBall,Thai,Good Team
+00096,Gwendolyn,Bennington,194,99.94,42,M,Tennis,Thai,Good Team
+00097,Natalia,Klein,169,91.53,35,F,Boxing,Thai,ICT Sport
+00098,Debbie,Chalk,185,67.98,33,F,Badminton,Thai,Rich Kid
+00099,Dan,Croce,161,43.19,39,M,PingPong,Thai,One Above All
+00100,Otis,Moore,191,54.8,37,M,Badminton,Korean,The Best Team
+00101,Pamela,Dingess,155,77.75,34,F,Football,Thai,CC Sport
+00102,Johnnie,Sides,184,54.46,29,M,Basketball,Thai,Mahidol Sport
+00103,Donna,Zeringue,180,85.7,26,F,PingPong,Korean,Arm Sport
+00104,Carol,Haynes,190,87.98,19,M,Tennis,Thai,Mahidol Sport
+00105,Terri,Cosby,183,48.1,30,M,Athletic,Thai,ICT Sport
+00106,Marian,Wolf,183,56.97,31,M,VolleyBall,Thai,XX Sport
+00107,Paul,Hanson,164,60.15,35,F,Basketball,Thai,Rama Sport
+00108,Barbara,Wagner,196,64.06,44,F,Boxing,Thai,Mahidol Sport
+00109,Lydia,Taylor,172,96.25,32,M,Tennis,Thai,One Above All
+00110,Stephanie,Smiler,197,72.62,33,M,Football,Thai,Green Sport
+00111,Michael,Grimaldo,150,56.01,33,F,Athletic,Thai,KingKong Sport
+00112,John,Pryor,156,48.63,31,M,VolleyBall,Thai,Rich Kid
+00113,James,Murray,167,50.04,34,M,Athletic,Thai,Batman Sport
+00114,Robert,Frazier,165,68.62,21,F,Athletic,Thai,Uefa191
+00115,Sally,Davis,165,76.46,32,M,VolleyBall,Thai,The Best Team
+00116,Sue,Davis,159,48.89,33,M,Boxing,Thai,Batman Sport
+00117,Marcus,Skora,159,92.71,24,F,Tennis,Thai,Green Velvet
+00118,Eduardo,Butler,164,75.64,16,M,Tennis,Thai,Underdogs Sport
+00119,Peter,Puentes,166,87.68,39,F,VolleyBall,Thai,XX Sport
+00120,Billy,Jiminez,198,68.82,17,M,Badminton,Thai,Pheonix FC
+00121,Amy,Andersen,194,53.11,29,M,Tennis,Thai,Beyonder
+00122,Eugene,Gordon,159,44.09,32,F,Boxing,Thai,Batman Sport
+00123,Kimberly,Strate,179,82.79,34,M,Tennis,Thai,Rama Sport
+00124,Christy,West,181,92.62,34,M,Basketball,Thai,Man Uay FC
+00125,Eugene,Griffith,176,56.17,25,M,Tennis,Thai,XX Sport
+00126,Emory,Smith,164,44.94,21,M,PingPong,Korean,Rama Sport
+00127,Maryann,Davis,181,51.59,15,M,Football,Thai,The Best Team
+00128,Brenda,Medina,194,53.05,43,M,Football,Thai,XX Sport
+00129,Mark,Parker,152,78.78,29,M,VolleyBall,Thai,ICT Sport
+00130,Daniel,Skeans,163,98.56,28,M,VolleyBall,German,Big Boom FC
+00131,Sallie,Lange,170,81.43,40,M,Football,Thai,Underdogs Sport
+00132,Lindsay,Armstrong,170,81.31,18,M,VolleyBall,Thai,Batman Sport
+00133,Dessie,Evans,159,91.21,34,M,Badminton,Thai,Underdogs Sport
+00134,Mary,Springer,162,89.21,18,F,Basketball,Thai,GD Sport
+00135,Patti,Mccarthy,157,68.71,15,F,Badminton,Thai,KingKong Sport
+00136,Connie,Scroggin,192,52.61,41,M,Boxing,Thai,Rama Sport
+00137,Kenneth,Miles,152,71.55,18,F,PingPong,Thai,GG Sport
+00138,Douglas,Alday,178,91.68,16,F,Basketball,Thai,Superman
+00139,Joseph,Davis,199,70.62,30,M,PingPong,Thai,Big Boom FC
+00140,Adrienne,Fernandez,176,66.63,19,M,VolleyBall,Thai,Big Boom FC
+00141,Gregory,Hopp,168,85.48,23,F,Badminton,Thai,Easy Team
+00142,Alexander,Purdy,197,58.82,35,F,Badminton,Japanese,Superman
+00143,Earl,Gordon,198,57.49,29,M,Football,Thai,Rich Kid
+00144,David,Wright,193,52.46,26,F,Badminton,Thai,ICT Sport
+00145,Darla,Vario,197,90.01,44,M,Athletic,Thai,GD Sport
+00146,Robert,Lunsford,186,46.41,16,M,Football,Thai,MM Sport
+00147,Jorge,Martinez,182,53.33,28,F,Tennis,Thai,The Best Team
+00148,George,Lozano,200,74.62,34,M,Football,Thai,Rich Kid
+00149,Robert,Collins,153,84.15,16,M,Football,German,MM Sport
+00150,Michael,Furr,183,40.37,37,F,PingPong,Thai,Batman Sport
+00151,Mary,Johnson,189,86.39,40,F,PingPong,Thai,FairPlay Sport
+00152,Ana,Fernandez,186,81.94,31,M,PingPong,Thai,Superman
+00153,Dennis,Krick,150,51.15,35,F,Football,Thai,One Above All
+00154,Eleonor,Hennessy,152,81.1,22,M,Football,Thai,Rama Sport
+00155,Doris,Bogacz,165,70.44,41,F,Athletic,Thai,Man Uay FC
+00156,Stephanie,Espinosa,162,41.19,40,M,Football,Thai,Uefa191
+00157,Billy,Taylor,195,41.72,30,F,Basketball,Korean,ICT Sport
+00158,Bob,West,195,86.19,21,F,PingPong,Thai,Easy Team
+00159,Maria,Stone,184,85.36,37,F,Tennis,Thai,GG Sport
+00160,Debbie,Coronado,167,77.04,41,F,Athletic,Thai,Big Boom FC
+00161,Charles,Mckenna,154,73.63,31,M,Athletic,Canadian,Arm Sport
+00162,Scott,Peacock,159,67.37,30,M,VolleyBall,Thai,Good Team
+00163,Lesa,Gonzalez,183,88.59,25,M,Basketball,Thai,ICT Sport
+00164,Tricia,Deherrera,198,58.13,21,F,Athletic,Thai,CC Sport
+00165,Robin,Sickles,157,95.57,15,M,Boxing,Thai,Pheonix FC
+00166,Michael,Carter,162,47.08,19,M,Badminton,Thai,Man Uay FC
+00167,Floyd,Condra,198,69.85,23,F,VolleyBall,Thai,KingKong Sport
+00168,Leo,Aviles,186,73.17,27,F,Football,Korean,Rich Kid
+00169,Donald,Allis,183,53.03,36,F,Tennis,Thai,Good Team
+00170,Alison,Mcgill,196,57.55,26,F,Boxing,Thai,XX Sport
+00171,Carla,Nelson,152,63.39,45,F,Tennis,Thai,MM Sport
+00172,David,Larson,189,55.05,30,M,Athletic,Thai,Pheonix FC
+00173,Charles,Harley,186,95.65,39,F,Football,Thai,One Above All
+00174,Carrie,Garcia,168,88.95,44,M,Badminton,Thai,Good Team
+00175,James,Watson,190,43.95,16,F,Boxing,Thai,Superman
+00176,Jan,Wyckoff,182,48.0,41,M,Football,Thai,Beyonder
+00177,Sarah,Moses,193,64.57,43,F,Football,Thai,Underdogs Sport
+00178,Julie,Williams,197,49.16,33,F,Basketball,Thai,Rich Kid
+00179,Gary,Green,164,54.9,18,M,Football,Thai,Green Sport
+00180,Eva,Skinner,172,82.72,21,M,Boxing,Thai,Uefa191
+00181,Ann,Borowski,163,78.56,37,M,PingPong,Thai,Arm Sport
+00182,Alden,Weir,200,55.99,21,F,PingPong,Thai,FairPlay Sport
+00183,Annamae,Uribe,173,84.01,41,M,VolleyBall,German,The Best Team
+00184,Woodrow,Garner,196,43.87,24,F,Athletic,Thai,Man Uay FC
+00185,Phillip,Janelle,194,58.2,23,F,VolleyBall,Thai,Good Team
+00186,Mary,Solomon,155,87.54,29,M,Tennis,Thai,GD Sport
+00187,Luis,Weyant,165,77.78,24,F,Tennis,Thai,The Best Team
+00188,Jeanette,Seward,169,55.63,36,F,Basketball,Thai,Easy Team
+00189,Paulette,Lawrence,167,96.7,44,M,Basketball,Japanese,One Above All
+00190,Lucrecia,Mcmullen,191,90.73,34,F,Basketball,Thai,Uefa191
+00191,Margaret,Klein,167,46.2,39,F,PingPong,Thai,Rama Sport
+00192,George,Gundersen,151,87.33,41,F,Badminton,Thai,Pheonix FC
+00193,Charles,Gahagan,176,75.17,45,M,PingPong,Thai,Rich Kid
+00194,William,Trimpe,188,40.18,40,F,Athletic,Thai,Pheonix FC
+00195,Donald,Betz,198,47.67,30,M,Boxing,German,GG Sport
+00196,Chrystal,Saba,183,48.49,33,M,VolleyBall,Thai,XX Sport
+00197,Angela,Cranford,187,55.06,21,M,PingPong,Thai,Rama Sport
+00198,Eric,Singleton,186,55.3,40,F,VolleyBall,Thai,Easy Team
+00199,Kelly,Vega,192,60.37,20,M,VolleyBall,Thai,Batman Sport
+00200,Mildred,Platt,184,95.31,31,M,PingPong,Thai,Big Boom FC
+00201,Claude,King,199,89.16,18,M,Tennis,Thai,MM Sport
+00202,Isabelle,Hess,155,66.32,16,M,Tennis,Thai,FairPlay Sport
+00203,Edward,Brown,190,67.25,34,F,Badminton,Thai,The Best Team
+00204,Kathryn,Baridon,189,97.01,30,M,Tennis,Thai,MM Sport
+00205,Gene,Garrido,166,76.74,41,F,Tennis,Thai,XX Sport
+00206,Henry,Lewis,186,61.96,28,M,Badminton,Thai,FairPlay Sport
+00207,William,Morris,193,46.94,32,F,VolleyBall,Thai,GD Sport
+00208,Antonio,Weist,184,78.24,24,M,Badminton,Thai,Man Uay FC
+00209,Zoila,Porada,186,63.1,22,M,Basketball,Korean,Green Velvet
+00210,William,Edwards,198,83.31,31,M,PingPong,Thai,Arm Sport
+00211,John,Broussard,162,92.73,35,F,Badminton,Thai,Uefa191
+00212,Kathy,Briley,196,77.65,39,M,Basketball,Thai,Big Boom FC
+00213,Morris,Hysmith,190,52.2,29,M,Tennis,Thai,Uefa191
+00214,Ina,Moore,176,75.53,42,M,Athletic,Thai,Batman Sport
+00215,Aaron,Cooley,183,44.18,26,F,Athletic,Thai,Uefa191
+00216,Dean,Mcgowan,197,73.28,22,M,Badminton,Thai,Underdogs Sport
+00217,Nicole,Frech,157,94.31,34,M,Football,Thai,One Above All
+00218,Mario,Romero,186,70.74,41,M,Badminton,Thai,Big Boom FC
+00219,Pamela,Fenton,180,71.48,40,F,PingPong,Korean,MM Sport
+00220,Donald,Rhim,166,76.41,19,M,Athletic,Thai,Man Uay FC
+00221,Thomas,Jordon,180,79.98,33,M,Basketball,Thai,Big Boom FC
+00222,Maude,Williams,161,80.64,23,F,Badminton,Italian,FairPlay Sport
+00223,Deborah,Bailey,200,55.17,34,F,Basketball,Thai,Mahidol Sport
+00224,Keri,Jacob,153,99.69,43,F,Football,Thai,Beyonder
+00225,Paul,Bullock,176,54.21,32,F,Football,Thai,Good Team
+00226,Olivia,Serafin,193,75.03,33,F,VolleyBall,Thai,Arm Sport
+00227,David,Katt,200,92.37,15,F,PingPong,Canadian,Uefa191
+00228,Lakeisha,Holman,193,71.26,19,F,Athletic,Thai,ICT Sport
+00229,Michael,Porter,180,46.55,43,F,Badminton,Thai,Man Uay FC
+00230,Jane,Garcia,158,51.88,17,M,Boxing,Thai,KingKong Sport
+00231,Jimmy,Atchley,155,57.53,21,F,VolleyBall,Thai,Underdogs Sport
+00232,Tyler,Franklin,173,95.21,26,F,Badminton,Thai,Underdogs Sport
+00233,Cristy,Say,175,81.3,42,M,Football,Thai,Man Uay FC
+00234,Dorothy,Blevins,192,52.47,29,F,Football,Thai,Big Boom FC
+00235,Roy,Garza,173,75.88,45,F,Athletic,Thai,Uefa191
+00236,Iris,King,159,93.48,19,M,PingPong,Thai,Easy Team
+00237,Clemente,Bowman,152,89.88,42,M,Athletic,Canadian,Green Sport
+00238,John,Okeefe,178,75.56,21,M,Tennis,Thai,Arm Sport
+00239,Willis,Ortiz,187,93.46,39,M,Badminton,Thai,Rich Kid
+00240,Jose,Gajate,158,85.77,18,M,Boxing,Thai,KingKong Sport
+00241,Jennifer,Laseter,166,68.97,34,F,Basketball,Thai,GG Sport
+00242,Ronnie,Robinson,198,52.95,45,F,PingPong,Thai,KingKong Sport
+00243,Barbra,Brune,182,48.89,24,F,Boxing,Thai,Mahidol Sport
+00244,Hunter,Sage,178,81.87,43,F,Basketball,Thai,Green Sport
+00245,Michael,Carvalho,196,73.45,22,M,Football,Thai,XX Sport
+00246,Eric,Williams,194,71.7,19,F,Badminton,Thai,Arm Sport
+00247,Nelson,Campbell,179,96.86,35,M,Athletic,Thai,Big Boom FC
+00248,Steven,Keister,188,94.68,19,F,VolleyBall,Canadian,Batman Sport
+00249,Norma,Culp,182,71.57,23,F,Boxing,Thai,XX Sport
+00250,Joseph,Benfield,151,83.59,17,M,VolleyBall,Thai,Batman Sport
+00251,Kim,Welker,197,73.46,41,F,Football,Thai,One Above All
+00252,Vincent,Crawford,197,54.11,35,F,Football,Thai,Big Boom FC
+00253,Kim,Woolard,172,45.16,22,M,VolleyBall,Thai,Beyonder
+00254,Ray,Jones,194,87.31,15,F,Athletic,Thai,Man Uay FC
+00255,Marilyn,Colburn,191,70.3,33,M,VolleyBall,Thai,Easy Team
+00256,Beverly,Killian,166,40.83,42,F,Badminton,Thai,Man Uay FC
+00257,Cathy,Ellis,154,72.51,38,M,PingPong,Thai,Uefa191
+00258,Jason,Johnson,163,92.16,16,M,Football,Thai,Underdogs Sport
+00259,Jorge,Ruiz,169,79.79,23,M,PingPong,Thai,Beyonder
+00260,Nancy,Hernandez,177,93.33,45,M,Athletic,Korean,GG Sport
+00261,Sheila,Keyes,152,79.7,39,F,Badminton,Thai,GD Sport
+00262,Rosalie,Long,153,82.12,37,M,Athletic,Thai,Mahidol Sport
+00263,Jason,Rouse,185,66.55,18,F,Basketball,Thai,The Best Team
+00264,Harold,Kellam,167,61.56,40,F,Football,Thai,The Best Team
+00265,Amy,Thedford,169,69.09,39,F,Badminton,Thai,XX Sport
+00266,Joan,Heard,189,63.84,40,M,Football,German,XX Sport
+00267,April,Whitling,186,72.91,17,F,VolleyBall,Thai,Man Uay FC
+00268,George,Philpot,177,98.88,43,M,Boxing,Thai,Green Velvet
+00269,James,Archer,194,42.46,26,M,Tennis,Thai,Underdogs Sport
+00270,Lena,Mccormack,163,87.9,39,F,Athletic,Thai,Beyonder
+00271,Lorraine,Carrillo,174,89.32,27,F,Tennis,Thai,GG Sport
+00272,Sally,Morales,184,40.15,38,M,PingPong,Thai,KingKong Sport
+00273,Mary,Gonzalez,198,63.02,43,F,PingPong,Thai,ICT Sport
+00274,Cecil,Gonzalez,191,51.57,18,F,VolleyBall,Thai,Big Boom FC
+00275,Martha,Lee,160,50.73,28,M,Basketball,Thai,Rama Sport
+00276,Stephanie,Jameson,199,40.02,16,F,Football,Thai,Uefa191
+00277,Cassandra,Davis,164,90.5,15,M,Badminton,Thai,KingKong Sport
+00278,Sally,Jefcoat,162,56.69,37,M,Boxing,Thai,Big Boom FC
+00279,John,Love,178,95.67,35,F,Football,Thai,Big Boom FC
+00280,Jaime,Spatz,183,56.64,15,F,Tennis,Thai,KingKong Sport
+00281,Nancy,Moran,183,88.18,37,M,Boxing,Thai,Batman Sport
+00282,Lindsey,Miller,180,51.98,42,M,VolleyBall,Thai,Uefa191
+00283,James,Newman,151,87.7,18,F,Football,Thai,Green Sport
+00284,Gertrude,Smith,196,53.68,28,M,PingPong,Thai,KingKong Sport
+00285,Barbara,Jewell,180,97.54,34,M,VolleyBall,Thai,Good Team
+00286,Gwendolyn,Avalos,160,70.68,18,F,Badminton,Thai,Man Uay FC
+00287,Martha,Bradshaw,162,67.46,29,M,Basketball,Thai,ICT Sport
+00288,Bernadine,Bundy,177,92.43,36,F,Athletic,Thai,Arm Sport
+00289,Arturo,Nichols,194,57.94,15,M,VolleyBall,Thai,Arm Sport
+00290,Eugene,Moore,190,85.98,24,F,VolleyBall,Thai,Pheonix FC
+00291,Angela,Jefferson,182,86.48,25,F,Football,Thai,FairPlay Sport
+00292,Shelby,Smith,165,75.92,25,M,PingPong,Thai,Green Sport
+00293,Danny,Weisenfluh,198,61.72,45,M,Tennis,Thai,Mahidol Sport
+00294,Roland,Hunsicker,166,79.93,21,M,Boxing,Thai,The Best Team
+00295,Jerry,Gladstone,153,99.38,37,F,Athletic,Korean,Green Sport
+00296,Donald,Varrone,151,67.29,30,F,Badminton,American,Good Team
+00297,Jeff,Emanuele,184,67.28,30,M,VolleyBall,Thai,Uefa191
+00298,John,Morrison,164,87.53,29,M,VolleyBall,Thai,Mahidol Sport
+00299,Frances,Lenihan,192,50.92,22,M,Boxing,Thai,XX Sport
+00300,Cynthia,Daniels,172,96.26,22,F,Tennis,Thai,Superman
+00301,Michael,Moy,172,51.49,43,M,Badminton,Thai,The Best Team
+00302,Linda,Jones,154,69.19,20,M,PingPong,Thai,Easy Team
+00303,Rita,Bumgardner,159,47.36,42,M,Tennis,Thai,Green Sport
+00304,Brendan,Gonzales,158,74.77,26,M,VolleyBall,Thai,Beyonder
+00305,Helga,Mcdaniel,162,94.84,45,F,Athletic,Japanese,Mahidol Sport
+00306,Robert,Windle,157,88.32,29,F,PingPong,Thai,Good Team
+00307,Alma,Larsen,165,57.54,29,F,Football,Thai,Superman
+00308,Henry,Stanley,184,94.17,27,M,Football,Thai,Superman
+00309,Gregory,Ramirez,174,40.62,44,M,Basketball,Thai,Green Velvet
+00310,Jose,Lund,196,61.54,21,M,VolleyBall,Thai,GG Sport
+00311,Keith,Mildenstein,189,49.99,34,M,Basketball,Thai,Big Boom FC
+00312,Mary,Oliver,152,90.14,40,M,Tennis,Thai,FairPlay Sport
+00313,Antonio,Dobson,188,78.64,35,F,Boxing,Thai,GG Sport
+00314,Thomas,Tattershall,179,70.96,33,F,Basketball,Thai,Green Sport
+00315,Armando,Mosely,171,72.95,15,F,Basketball,Thai,ICT Sport
+00316,April,Register,188,65.02,36,M,Badminton,Thai,Underdogs Sport
+00317,Jeffery,Payne,171,96.16,17,F,Boxing,Thai,Easy Team
+00318,Brian,Boss,166,51.0,25,F,Athletic,Thai,GD Sport
+00319,Jarrod,Averitt,153,53.7,36,F,Badminton,Thai,GD Sport
+00320,Cory,Brown,190,63.01,30,F,Football,Thai,Batman Sport
+00321,Merle,Pittman,198,46.02,45,M,Badminton,American,The Best Team
+00322,John,White,172,63.38,34,F,Tennis,Thai,Pheonix FC
+00323,Saundra,York,197,93.45,23,M,Basketball,American,ICT Sport
+00324,Cheryl,Greene,156,79.34,42,F,Badminton,Thai,Arm Sport
+00325,Esther,Bender,191,68.52,23,F,Tennis,Thai,KingKong Sport
+00326,Lorinda,Forster,196,45.78,16,M,Boxing,Thai,MM Sport
+00327,Shane,Cochrane,180,40.28,39,F,Badminton,Canadian,Big Boom FC
+00328,Gilberto,Salvador,173,74.09,28,F,Athletic,Thai,Pheonix FC
+00329,Santiago,Traverso,175,40.92,38,F,Badminton,Korean,Good Team
+00330,Renee,Ross,170,85.63,24,F,Athletic,Japanese,Man Uay FC
+00331,Edna,Baldwin,155,99.05,39,F,VolleyBall,Thai,Green Sport
+00332,Regina,Stafford,160,86.69,18,M,Badminton,Thai,XX Sport
+00333,Nicole,Thomas,193,78.48,16,M,Football,Thai,Green Velvet
+00334,Robert,Meyers,161,67.12,17,M,PingPong,Thai,Superman
+00335,Rosa,Judd,172,62.8,39,F,Basketball,Thai,MM Sport
+00336,Judith,Kindred,179,93.78,25,F,Football,Thai,Mahidol Sport
+00337,Tiffany,Rios,175,73.14,22,F,Boxing,Thai,The Best Team
+00338,John,Jamison,198,87.98,30,F,Boxing,Thai,Easy Team
+00339,Lorri,Mittler,152,44.04,27,M,Athletic,Thai,FairPlay Sport
+00340,Dwayne,Pinson,194,96.33,15,F,VolleyBall,Canadian,GD Sport
+00341,Miles,Williams,173,66.89,24,M,Tennis,Thai,KingKong Sport
+00342,Hattie,Rivers,166,90.15,20,M,PingPong,Canadian,FairPlay Sport
+00343,Deborah,Mattingly,183,74.92,44,F,VolleyBall,Thai,Rama Sport
+00344,Randy,Thomas,182,45.82,28,F,PingPong,Thai,Arm Sport
+00345,Ricardo,Workman,158,63.05,41,M,Badminton,Korean,Easy Team
+00346,Tawanna,Smith,199,59.92,28,F,Basketball,Thai,Pheonix FC
+00347,Donna,Clark,150,80.85,40,F,Football,Thai,GD Sport
+00348,Brian,Smith,153,87.82,34,M,VolleyBall,Thai,Batman Sport
+00349,Tyler,Breeden,183,64.38,18,M,Tennis,Thai,Good Team
+00350,David,Erwin,167,65.54,22,M,Athletic,Thai,FairPlay Sport
+00351,Gregory,Ellis,183,64.77,42,M,Tennis,Thai,Green Velvet
+00352,Barbara,Hayhoe,163,58.84,26,F,VolleyBall,Thai,Pheonix FC
+00353,Sandra,Perkins,189,85.92,18,F,Boxing,Thai,Man Uay FC
+00354,Eugene,Lombard,181,52.68,31,F,Tennis,Thai,Arm Sport
+00355,Brandon,Brock,182,72.8,33,M,VolleyBall,Thai,Uefa191
+00356,Victoria,Bowens,166,43.67,39,F,PingPong,Thai,Good Team
+00357,Benjamin,Fischl,152,98.65,39,M,PingPong,Thai,Batman Sport
+00358,Sonya,Douglas,163,54.69,35,F,Boxing,Thai,KingKong Sport
+00359,Michael,Sampley,195,76.26,29,F,Boxing,Thai,Green Velvet
+00360,Taylor,Killian,183,99.75,29,F,Tennis,Thai,Big Boom FC
+00361,Kristen,Franklin,181,72.79,41,M,Badminton,Thai,Arm Sport
+00362,Clyde,Nutt,151,65.68,39,F,Tennis,Thai,One Above All
+00363,Marilyn,Wade,171,80.54,42,M,Badminton,Thai,Green Sport
+00364,Libbie,Goff,161,54.13,18,M,VolleyBall,Thai,KingKong Sport
+00365,Henry,Bowman,156,54.82,35,M,Basketball,Thai,Arm Sport
+00366,Robert,Jones,185,48.18,19,F,Football,Thai,MM Sport
+00367,Kathleen,Garrett,171,50.23,21,M,Boxing,Thai,GD Sport
+00368,Amy,Anderson,152,54.32,27,F,VolleyBall,Korean,Mahidol Sport
+00369,Brian,Graham,155,41.95,18,M,Football,Thai,Uefa191
+00370,Harvey,Monroy,150,84.87,31,M,Athletic,Thai,Easy Team
+00371,Edward,Collins,162,57.67,32,M,Tennis,Thai,Big Boom FC
+00372,Lyndia,Carmody,158,47.3,20,F,Boxing,Thai,One Above All
+00373,Kristen,Haynesworth,152,94.79,15,F,Badminton,Thai,Uefa191
+00374,Dennis,Conley,172,56.87,18,M,Basketball,German,Big Boom FC
+00375,Gregory,Jordan,166,74.27,16,M,Athletic,Thai,ICT Sport
+00376,Katrina,Spader,182,50.85,25,M,VolleyBall,Thai,Superman
+00377,Patricia,White,198,47.78,23,F,VolleyBall,Thai,Batman Sport
+00378,Lakesha,Lagrone,154,46.6,43,M,Boxing,Thai,The Best Team
+00379,Reginald,Litton,187,89.87,33,M,Basketball,Thai,XX Sport
+00380,Kattie,Dinatale,162,94.55,39,F,Tennis,Thai,Underdogs Sport
+00381,Alton,Miller,151,52.88,16,F,Basketball,Thai,The Best Team
+00382,William,Clark,198,49.51,33,M,Badminton,Thai,Uefa191
+00383,Howard,Cole,196,99.12,16,F,PingPong,Thai,CC Sport
+00384,James,Blackwood,153,82.25,28,M,Football,Thai,Easy Team
+00385,Lauren,Goss,168,68.72,22,M,Athletic,Thai,Big Boom FC
+00386,Raymond,Anthony,183,53.68,17,M,Tennis,Thai,Pheonix FC
+00387,Maxine,Lopez,199,91.86,16,F,Boxing,Canadian,GG Sport
+00388,Earl,Mayer,175,94.11,39,F,VolleyBall,Thai,GD Sport
+00389,Lisa,Crabtree,156,45.76,32,F,VolleyBall,Thai,FairPlay Sport
+00390,Patricia,Nicholson,197,82.88,31,F,Badminton,Thai,GD Sport
+00391,Milton,Broughton,191,58.86,28,F,Athletic,Thai,ICT Sport
+00392,Emily,Cervantes,183,43.38,27,M,Basketball,Thai,Rama Sport
+00393,Willie,Regan,177,66.61,30,M,Boxing,Thai,Superman
+00394,Daniel,Mann,154,67.28,38,M,VolleyBall,Thai,Big Boom FC
+00395,Mac,Romney,150,80.37,23,M,PingPong,Thai,GD Sport
+00396,Amber,Collins,190,66.32,34,F,Badminton,Thai,KingKong Sport
+00397,William,Graves,186,86.36,20,M,Football,Thai,Rich Kid
+00398,Katherine,Callahan,158,79.77,17,M,Boxing,German,Green Sport
+00399,Tricia,Tejada,178,86.76,17,M,Badminton,Thai,Green Sport
+00400,Mary,Alexander,160,67.02,33,M,PingPong,Thai,Rich Kid
+00401,Barbara,Northcutt,160,68.2,27,F,Football,Thai,Green Velvet
+00402,Faye,Campbell,172,85.09,31,M,VolleyBall,Thai,Beyonder
+00403,Carlos,Shepard,159,78.07,36,F,PingPong,Thai,Superman
+00404,Paul,Carroll,170,91.68,37,F,Boxing,Korean,Rich Kid
+00405,Joe,Hernandez,174,80.49,36,F,VolleyBall,Thai,One Above All
+00406,Hattie,Reyes,179,74.78,31,M,Football,Thai,KingKong Sport
+00407,Billy,Berndt,184,50.13,22,M,Boxing,Thai,KingKong Sport
+00408,Mark,Wells,193,51.78,23,F,Tennis,Thai,GG Sport
+00409,Doris,Elrick,181,63.7,29,M,Badminton,Thai,Pheonix FC
+00410,Mary,Farnes,192,89.81,18,F,Athletic,Thai,Good Team
+00411,Michael,Bagger,187,62.86,16,F,Basketball,Thai,Underdogs Sport
+00412,Ben,Wedekind,192,40.56,26,F,Badminton,Thai,Arm Sport
+00413,Lucy,Roberts,180,87.93,36,F,Badminton,Thai,Superman
+00414,Esperanza,Harris,187,56.3,26,M,Boxing,Thai,XX Sport
+00415,Nicola,Mooneyhan,165,93.43,20,M,Athletic,Thai,Beyonder
+00416,Beverly,Thompson,173,62.7,39,F,Athletic,Thai,Arm Sport
+00417,Ann,Harris,154,96.42,27,F,VolleyBall,Thai,Batman Sport
+00418,Beulah,Rivero,199,53.46,17,F,Tennis,Thai,Man Uay FC
+00419,Robert,Newman,169,85.66,42,F,Badminton,Thai,MM Sport
+00420,Jeri,Mcwhorter,162,59.87,35,F,Basketball,Thai,Good Team
+00421,Teresa,Carson,188,97.68,29,F,Athletic,Thai,Green Sport
+00422,Jodi,Huggard,188,63.23,45,M,VolleyBall,Thai,Uefa191
+00423,Darren,Thames,188,42.14,38,F,Boxing,Thai,Batman Sport
+00424,Roscoe,Aguilar,160,55.49,38,M,PingPong,Canadian,Good Team
+00425,Sophia,Sharpe,183,61.87,28,F,Football,Thai,Beyonder
+00426,Adriane,Thrasher,170,76.13,45,F,Boxing,Thai,CC Sport
+00427,Joseph,Smith,166,47.96,15,M,Basketball,Thai,CC Sport
+00428,David,Mckee,200,77.18,42,F,Boxing,Korean,Man Uay FC
+00429,Robert,Ybarra,152,97.99,22,M,Tennis,Thai,Green Sport
+00430,Norma,Pinsonnault,187,85.85,31,F,Athletic,German,Green Velvet
+00431,Leonard,Staten,182,89.47,19,F,Boxing,Thai,Green Velvet
+00432,Cheryl,Carden,169,43.02,44,F,VolleyBall,Thai,One Above All
+00433,Michele,Allen,162,80.31,25,M,Football,Thai,Big Boom FC
+00434,Michelle,Young,178,78.84,45,M,Football,Thai,One Above All
+00435,Guy,Evans,171,60.45,34,F,VolleyBall,Thai,GG Sport
+00436,Pedro,Munro,173,74.31,28,F,Boxing,Thai,Arm Sport
+00437,Nicole,Trippel,168,45.23,36,M,Basketball,Canadian,ICT Sport
+00438,Lena,Febus,190,43.47,27,M,Boxing,Thai,Green Sport
+00439,Mina,Herrera,177,72.89,22,F,PingPong,Thai,Green Velvet
+00440,Nicole,Harrison,182,92.71,31,F,VolleyBall,Thai,Pheonix FC
+00441,Ruben,Bell,150,45.64,42,F,Tennis,Thai,The Best Team
+00442,Walter,Dixon,198,70.65,23,F,VolleyBall,Thai,Green Velvet
+00443,Sandy,Elliott,153,83.41,30,M,VolleyBall,Thai,Underdogs Sport
+00444,Scott,Green,171,84.33,40,F,PingPong,Canadian,Big Boom FC
+00445,Eliza,Conner,179,91.38,34,M,Athletic,German,Underdogs Sport
+00446,Cyril,Husseini,200,54.79,19,F,Badminton,Thai,Easy Team
+00447,Ethel,Mcgehee,174,48.18,16,M,Boxing,Thai,FairPlay Sport
+00448,Louise,Furlow,189,96.32,18,M,Athletic,Thai,Big Boom FC
+00449,Gloria,Buchanan,171,47.65,43,M,Basketball,Thai,Green Sport
+00450,James,Harland,164,56.08,37,F,PingPong,Thai,GG Sport
+00451,Ashley,Irons,182,79.39,33,M,VolleyBall,Thai,Underdogs Sport
+00452,Amy,Kull,162,67.5,36,M,Football,Thai,Rich Kid
+00453,Ronnie,Naiman,187,85.93,33,F,Basketball,Thai,KingKong Sport
+00454,Kelly,Birch,164,61.64,44,M,Badminton,German,GD Sport
+00455,Kyle,Garcia,189,88.3,29,M,PingPong,Thai,KingKong Sport
+00456,Anthony,Ratliff,170,86.48,29,F,Football,Thai,KingKong Sport
+00457,Stephanie,Ray,185,98.07,29,F,Boxing,Thai,GD Sport
+00458,Roger,Prechtl,196,45.42,39,F,PingPong,Thai,Mahidol Sport
+00459,Josephine,Murray,181,40.73,40,M,Badminton,Thai,Easy Team
+00460,Cory,Alvarez,172,57.64,16,M,Boxing,German,GG Sport
+00461,Hope,Ochoa,174,77.32,23,F,Athletic,Thai,Arm Sport
+00462,Melissa,Madho,166,73.27,22,M,Badminton,Thai,Rama Sport
+00463,Barbara,Porter,153,95.81,17,M,Boxing,Thai,Arm Sport
+00464,Kathryn,Diaz,166,47.3,45,M,Basketball,Thai,One Above All
+00465,Eusebio,Morren,158,45.64,35,M,Football,Thai,Mahidol Sport
+00466,Christine,Vazquez,181,88.9,23,F,Athletic,Thai,The Best Team
+00467,Cynthia,Rice,185,48.48,33,F,Boxing,German,Big Boom FC
+00468,Marsha,Gordon,163,72.78,38,F,VolleyBall,Thai,Good Team
+00469,Jimmy,Sowers,153,93.42,38,F,Athletic,Thai,KingKong Sport
+00470,Cara,Hargrove,155,95.14,16,M,PingPong,German,Superman
+00471,Thomas,Plante,187,67.37,43,M,Badminton,Thai,Rich Kid
+00472,Julie,Bullock,150,80.1,18,M,PingPong,Thai,FairPlay Sport
+00473,Tanya,Nguyen,200,46.28,37,M,Boxing,Thai,Good Team
+00474,Margaret,Maranda,161,63.61,43,M,Athletic,Thai,Big Boom FC
+00475,Martha,Theriot,199,46.83,22,M,Boxing,Thai,Man Uay FC
+00476,Eric,Nelson,195,86.85,15,M,Tennis,Thai,One Above All
+00477,Ernest,Perrigan,191,60.92,43,F,Football,Thai,Uefa191
+00478,Woodrow,Ryans,169,46.36,15,M,Basketball,Thai,XX Sport
+00479,Jesus,Hambrick,158,56.87,28,M,VolleyBall,Thai,Man Uay FC
+00480,Jon,Oelze,172,94.4,20,F,Badminton,Canadian,ICT Sport
+00481,Thelma,Gessford,192,43.55,41,M,Boxing,Thai,Underdogs Sport
+00482,Cheryl,Hunter,168,73.95,18,F,Basketball,Thai,MM Sport
+00483,Russell,Seiberling,200,72.75,15,F,Football,Thai,MM Sport
+00484,Marvin,Diclaudio,186,48.7,15,F,Tennis,Thai,Pheonix FC
+00485,Dean,Patterson,184,65.35,25,F,Football,Canadian,Easy Team
+00486,George,Robinson,166,49.04,30,M,Tennis,Thai,Good Team
+00487,Winnie,Barber,183,64.69,35,M,Football,Thai,GD Sport
+00488,Luke,Magee,159,65.41,28,M,Football,Thai,ICT Sport
+00489,Elias,Campbell,169,76.86,34,M,Athletic,Korean,GD Sport
+00490,Bertha,Davis,198,70.33,29,M,PingPong,Thai,Beyonder
+00491,Marco,Mcdaniel,194,81.73,25,M,PingPong,Thai,Rama Sport
+00492,Phillip,Coulter,189,54.54,32,F,Tennis,Thai,GD Sport
+00493,Andrea,Moore,151,62.89,21,M,Athletic,Thai,Green Velvet
+00494,Yvette,Gray,179,74.79,36,M,Football,Thai,XX Sport
+00495,James,Swanson,165,88.47,26,F,Athletic,Thai,Rama Sport
+00496,Mike,Cavanaugh,180,91.23,21,M,Tennis,Thai,Big Boom FC
+00497,Tamara,Patrick,182,56.28,21,M,Badminton,Thai,FairPlay Sport
+00498,John,Burnett,200,59.49,15,M,Boxing,Thai,GD Sport
+00499,Anita,Starling,185,62.1,41,M,Boxing,Thai,GD Sport
+00500,Michael,Perez,192,76.18,25,F,Football,Korean,Mahidol Sport
+00501,Clifford,Lossett,157,72.26,40,M,Badminton,Thai,FairPlay Sport
+00502,Lucinda,Perry,198,81.48,39,M,VolleyBall,Thai,GG Sport
+00503,Doreen,Jurist,177,41.36,37,F,VolleyBall,Thai,Big Boom FC
+00504,Charles,Wheller,155,99.48,40,F,Basketball,Thai,GD Sport
+00505,Georgianna,Lea,161,46.72,16,M,VolleyBall,Thai,Good Team
+00506,Marlene,Ruffin,151,90.81,42,F,VolleyBall,Thai,Big Boom FC
+00507,Terry,Dawson,176,73.03,23,F,Tennis,Thai,Arm Sport
+00508,Michael,Jones,163,42.8,31,M,PingPong,Thai,Rama Sport
+00509,Philip,Knuckles,193,74.44,40,M,PingPong,Thai,Big Boom FC
+00510,Bryon,Smith,171,78.67,18,M,Tennis,Thai,CC Sport
+00511,Andrew,Nelson,175,86.03,25,F,PingPong,Thai,MM Sport
+00512,Dora,Bernard,172,58.67,19,F,PingPong,Thai,KingKong Sport
+00513,Daniel,Harris,193,90.03,31,F,Football,Thai,KingKong Sport
+00514,Sarah,Gray,156,67.55,42,F,Basketball,Thai,CC Sport
+00515,John,Bell,160,99.33,42,F,Basketball,Thai,MM Sport
+00516,Elizabeth,Miller,169,53.85,37,M,Badminton,Thai,Green Sport
+00517,Jackie,Asakura,157,50.75,23,M,Football,Thai,ICT Sport
+00518,Matthew,Teague,173,52.23,26,M,VolleyBall,Thai,CC Sport
+00519,Donald,Bernacchi,153,47.99,39,M,Athletic,Thai,Man Uay FC
+00520,Enrique,Metz,153,72.02,19,F,Basketball,Thai,Mahidol Sport
+00521,Pearlie,Goodwin,168,75.0,37,M,PingPong,Thai,GG Sport
+00522,Kathryn,Beagle,176,52.01,20,F,Tennis,Thai,CC Sport
+00523,Jasmine,Murphy,151,55.54,24,F,PingPong,Thai,FairPlay Sport
+00524,Diane,Marshall,176,69.25,24,F,Football,Thai,CC Sport
+00525,Elizabeth,Taylor,151,88.19,21,M,Athletic,Thai,Uefa191
+00526,Loretta,Porter,186,56.47,22,F,Football,Thai,KingKong Sport
+00527,Douglas,Gilbert,191,85.16,43,M,Football,Thai,GD Sport
+00528,Roy,Norman,162,94.13,35,F,Boxing,Thai,GG Sport
+00529,Bessie,Baird,170,60.43,21,F,Athletic,Thai,Pheonix FC
+00530,Mary,Payne,197,64.16,26,F,PingPong,Thai,Beyonder
+00531,Ines,Lawrence,163,99.82,21,M,PingPong,Thai,KingKong Sport
+00532,Sean,Craven,189,44.53,26,M,Boxing,Thai,Uefa191
+00533,Berry,Saenz,157,73.77,38,M,Football,Thai,Pheonix FC
+00534,Tameika,Osbeck,184,42.9,42,F,Football,Thai,XX Sport
+00535,Lona,Maynes,171,47.69,40,M,Tennis,Thai,Big Boom FC
+00536,Brian,Inguardsen,158,61.3,24,F,Tennis,Thai,Green Velvet
+00537,Joan,Campbell,191,91.27,31,M,Badminton,Korean,Underdogs Sport
+00538,Joshua,Anthony,194,42.59,18,M,Football,Thai,Mahidol Sport
+00539,Alexander,Allen,155,43.25,44,M,Football,Thai,Arm Sport
+00540,Dorothy,Wilkinson,184,92.48,42,F,Athletic,Thai,ICT Sport
+00541,Lenore,Johnson,168,48.35,19,M,Football,Thai,The Best Team
+00542,Carl,Walker,164,69.38,31,F,Basketball,Japanese,Good Team
+00543,John,Kurylo,200,41.26,18,M,Boxing,American,Underdogs Sport
+00544,Lana,Beveridge,196,84.61,24,F,PingPong,Thai,Man Uay FC
+00545,Arthur,Adcock,171,96.4,32,M,Basketball,Thai,Green Sport
+00546,Benton,Huber,196,86.98,20,M,Football,Thai,GG Sport
+00547,Elijah,Gould,167,67.42,19,M,Basketball,Thai,Underdogs Sport
+00548,Desiree,Boyd,170,61.63,36,F,VolleyBall,Thai,Easy Team
+00549,Thomas,Mccarthy,180,72.41,43,M,Badminton,Korean,Pheonix FC
+00550,Paula,Boender,157,59.47,40,F,Tennis,Thai,CC Sport
+00551,Jean,Smith,193,92.37,29,F,Basketball,Thai,MM Sport
+00552,Anton,Aponte,172,69.28,42,F,Basketball,Thai,Mahidol Sport
+00553,Robert,Dandridge,182,57.85,29,F,VolleyBall,Thai,Green Sport
+00554,Melanie,Noble,194,85.44,16,F,Boxing,Thai,GG Sport
+00555,Jack,Ayers,163,69.23,30,M,Basketball,Thai,GG Sport
+00556,Joshua,Frost,167,43.12,34,M,Boxing,Thai,Green Velvet
+00557,Ruby,Mitchell,177,88.3,39,M,VolleyBall,Thai,XX Sport
+00558,Edward,Johnson,197,42.0,40,F,Badminton,Canadian,KingKong Sport
+00559,Jennifer,Santiago,183,76.96,28,F,Athletic,Thai,Rama Sport
+00560,Janet,Rybak,161,84.22,41,F,Tennis,Thai,Superman
+00561,William,Brown,160,93.72,26,F,Football,Korean,Good Team
+00562,Stella,Barker,175,52.05,17,M,VolleyBall,Thai,The Best Team
+00563,Jose,Finney,161,76.39,35,F,Basketball,Thai,Superman
+00564,David,Jones,165,80.56,44,F,PingPong,Thai,Rama Sport
+00565,Travis,Caron,166,58.41,39,M,Badminton,Thai,Good Team
+00566,Ryan,Watts,179,72.9,36,M,VolleyBall,Thai,Easy Team
+00567,Ollie,Buchanan,192,82.03,15,F,Athletic,Thai,Arm Sport
+00568,Amy,Penton,182,69.96,24,M,PingPong,Thai,MM Sport
+00569,Devon,Stevens,193,81.36,38,F,Badminton,Thai,The Best Team
+00570,Martin,Gibbs,173,68.2,21,M,PingPong,Thai,ICT Sport
+00571,Roy,Torres,189,71.94,22,M,PingPong,Thai,FairPlay Sport
+00572,Wm,Fine,154,51.97,28,M,PingPong,Thai,GG Sport
+00573,Brittany,Bowman,153,41.41,22,M,Athletic,Thai,Good Team
+00574,Rose,Ownby,196,53.37,29,M,PingPong,Thai,XX Sport
+00575,Kelly,Queen,186,86.19,17,F,Athletic,Thai,Pheonix FC
+00576,Philip,Stough,189,92.4,25,M,Basketball,Thai,Uefa191
+00577,Richard,Gibson,180,40.71,37,M,Basketball,Thai,Easy Team
+00578,Juanita,Lesher,196,63.3,39,M,VolleyBall,Thai,CC Sport
+00579,Bernadette,Boros,189,83.9,39,M,Boxing,Canadian,CC Sport
+00580,Bradley,Maurer,170,51.57,29,F,Football,Thai,Uefa191
+00581,Joseph,Johnstone,190,57.7,15,M,Badminton,Thai,Mahidol Sport
+00582,Robin,Mack,174,84.55,16,F,PingPong,German,Easy Team
+00583,Carmen,Lugo,153,91.77,29,M,Badminton,Thai,Mahidol Sport
+00584,Howard,Zapata,173,84.1,15,M,PingPong,Thai,Mahidol Sport
+00585,Richard,Nielsen,188,45.08,28,M,Basketball,Thai,GD Sport
+00586,Meghan,Starling,160,50.38,39,F,VolleyBall,Thai,Mahidol Sport
+00587,Carrol,Harms,182,62.92,23,F,Tennis,Thai,Underdogs Sport
+00588,David,Kipp,190,77.72,32,M,Basketball,Thai,FairPlay Sport
+00589,Donald,Pinchback,179,46.39,27,M,VolleyBall,Thai,Big Boom FC
+00590,Rita,Wilson,180,63.5,39,M,VolleyBall,Thai,One Above All
+00591,Geneva,Schaufelberge,151,56.01,24,F,Athletic,Korean,Good Team
+00592,Meagan,Welker,168,59.33,40,M,Basketball,Thai,FairPlay Sport
+00593,Anne,Guidry,179,74.82,32,F,Tennis,Thai,Mahidol Sport
+00594,Charles,Flores,187,76.18,44,F,Basketball,Thai,Good Team
+00595,Mike,Erickson,167,56.06,23,M,Athletic,Thai,Easy Team
+00596,William,Tylor,182,72.88,45,F,Football,Thai,KingKong Sport
+00597,Barbara,Linn,163,90.31,15,M,Athletic,Thai,Green Sport
+00598,Pauline,Johnson,185,95.28,34,M,Boxing,Thai,Underdogs Sport
+00599,Verna,Spikes,151,99.48,33,M,Tennis,Thai,Beyonder
+00600,Shannon,Owen,190,98.41,23,F,Badminton,Thai,Rich Kid
+00601,Mary,Beckett,177,69.87,18,M,PingPong,Thai,ICT Sport
+00602,Annette,Dugas,193,54.04,27,M,Basketball,Korean,Big Boom FC
+00603,Lynne,Ryan,180,72.48,43,M,Boxing,Thai,FairPlay Sport
+00604,Michael,Harris,181,71.86,43,F,VolleyBall,Thai,GD Sport
+00605,Raymond,Jones,196,68.48,16,F,Football,Thai,KingKong Sport
+00606,Amie,Killeagle,181,72.4,32,M,Basketball,Thai,Green Velvet
+00607,Michael,Robinson,187,82.06,35,F,Boxing,Thai,Green Velvet
+00608,Charlotte,Clark,170,61.5,29,F,Basketball,Thai,Pheonix FC
+00609,Tina,Beezley,155,68.61,43,F,Athletic,Thai,Superman
+00610,Del,Harris,163,53.67,33,M,PingPong,American,Good Team
+00611,Carlos,Cheng,152,45.2,25,F,Boxing,Thai,KingKong Sport
+00612,Venessa,Bryant,158,54.01,22,M,Football,German,Arm Sport
+00613,Vivian,Eggleston,160,45.26,43,F,Badminton,Thai,Green Sport
+00614,Stephen,Mayo,198,84.39,27,M,Football,Thai,One Above All
+00615,Tammie,Mcintosh,167,43.71,18,F,Boxing,Thai,The Best Team
+00616,James,Maxwell,193,90.36,39,M,Football,Korean,Rama Sport
+00617,Alfonso,Collis,154,53.27,42,F,Athletic,Thai,GD Sport
+00618,Christopher,Hernandez,166,58.12,25,F,PingPong,Thai,GD Sport
+00619,Rosario,Chen,158,84.51,17,M,Boxing,Thai,Rich Kid
+00620,Ruth,Orleans,189,45.08,18,M,PingPong,Thai,Green Velvet
+00621,Carol,Statler,160,99.97,24,F,Boxing,Thai,Arm Sport
+00622,Patricia,Erwin,199,94.42,44,F,Athletic,Thai,Superman
+00623,Patricia,Pinard,173,45.09,24,F,Football,Thai,Arm Sport
+00624,Betty,Mullis,161,95.51,30,M,Athletic,Thai,Beyonder
+00625,Billie,Smith,184,53.82,42,M,Football,Thai,Uefa191
+00626,Ivan,Hamilton,153,70.51,27,F,VolleyBall,Thai,FairPlay Sport
+00627,Judith,Foye,182,71.03,32,F,VolleyBall,Thai,Beyonder
+00628,Octavia,Rock,186,71.88,40,F,Badminton,Thai,Arm Sport
+00629,Jason,Ostrander,151,62.71,27,M,Football,Thai,Big Boom FC
+00630,Catherine,Ocheltree,194,90.15,19,F,VolleyBall,Thai,Uefa191
+00631,Carroll,Rivera,178,45.99,22,F,Athletic,Thai,GD Sport
+00632,John,Stephens,160,68.97,25,M,Tennis,Thai,KingKong Sport
+00633,Jennifer,Laine,190,63.23,38,M,Basketball,Thai,XX Sport
+00634,Leslie,Leon,158,78.99,34,M,PingPong,Thai,Rich Kid
+00635,Kurtis,Hewell,152,55.18,41,M,Athletic,Korean,Batman Sport
+00636,Phillip,Hughes,192,56.32,25,M,Athletic,Thai,Green Velvet
+00637,Elroy,Dever,162,99.75,15,F,Boxing,Thai,GG Sport
+00638,Roslyn,Gubler,182,75.37,26,M,Basketball,Thai,Uefa191
+00639,Dale,Winsley,156,89.54,25,M,Football,Canadian,Pheonix FC
+00640,Kellie,Sandage,178,68.04,37,F,Tennis,Thai,FairPlay Sport
+00641,Mary,Chambers,198,55.24,20,M,PingPong,Thai,ICT Sport
+00642,Jennifer,Rich,153,64.05,25,M,PingPong,Thai,KingKong Sport
+00643,Carolyn,Pleasant,180,89.68,40,M,Boxing,Thai,XX Sport
+00644,Dan,Ernest,169,93.26,43,M,Badminton,Thai,Pheonix FC
+00645,Jared,Foster,175,80.19,34,M,Boxing,Thai,One Above All
+00646,Virginia,Guerrero,189,62.59,21,F,VolleyBall,German,Batman Sport
+00647,Raymond,Marguez,161,83.78,33,F,Boxing,Thai,Mahidol Sport
+00648,Joseph,Mattson,189,65.57,17,F,Football,Thai,CC Sport
+00649,Steven,Cole,167,80.68,22,M,VolleyBall,Thai,Uefa191
+00650,Jerry,Delsignore,177,59.44,43,M,Tennis,Thai,Superman
+00651,Alvin,Krizan,184,57.32,16,F,Tennis,Thai,Rama Sport
+00652,Kenneth,Niece,165,99.75,44,F,Tennis,Thai,XX Sport
+00653,Danny,Burks,161,46.92,18,M,Football,Thai,Good Team
+00654,Mary,Ley,156,77.72,45,M,PingPong,Thai,Superman
+00655,Melanie,Lemire,152,60.65,19,M,PingPong,Thai,Rich Kid
+00656,Fanny,Graham,152,62.66,42,M,Football,Thai,XX Sport
+00657,Edison,Brewton,199,71.05,41,M,Athletic,Thai,FairPlay Sport
+00658,Robert,Cowley,163,75.43,18,M,Badminton,Thai,GG Sport
+00659,Tracey,Haag,189,85.12,19,F,Tennis,Thai,FairPlay Sport
+00660,Germaine,Stoltzfus,191,88.72,19,F,Boxing,Thai,Rama Sport
+00661,Amanda,Clemons,152,75.89,39,M,Football,Thai,Beyonder
+00662,Heriberto,Theriot,171,55.74,27,M,Football,Thai,KingKong Sport
+00663,Janice,Foust,169,80.14,37,M,Badminton,Thai,Rama Sport
+00664,Steven,Simpson,170,53.17,35,F,Basketball,Thai,GG Sport
+00665,Kevin,Malsam,161,99.02,25,F,Athletic,Thai,KingKong Sport
+00666,Jessie,Hammack,190,90.72,36,M,Boxing,Thai,Batman Sport
+00667,Andrew,Hansen,157,77.52,21,F,Boxing,Korean,Green Sport
+00668,Dwight,Russel,155,90.24,45,M,Badminton,Thai,One Above All
+00669,Larry,Byrd,167,67.12,39,F,Tennis,Thai,Man Uay FC
+00670,Ellen,Goldschmidt,163,72.11,28,M,Basketball,Thai,MM Sport
+00671,Kathleen,Gorman,187,47.42,31,M,Boxing,Thai,Mahidol Sport
+00672,Paula,Poche,166,61.01,34,F,PingPong,Thai,ICT Sport
+00673,Sara,Beil,185,51.9,24,F,Basketball,Thai,Green Velvet
+00674,Edward,Hall,200,40.06,19,M,PingPong,German,Pheonix FC
+00675,Thomas,Hathaway,179,85.16,24,F,Basketball,Thai,Beyonder
+00676,Steven,Crumpler,171,94.46,36,M,PingPong,Canadian,XX Sport
+00677,Jennifer,Kaufman,155,40.46,44,M,VolleyBall,Thai,ICT Sport
+00678,Nicole,Nelson,167,85.4,29,M,PingPong,American,Green Sport
+00679,Jerome,Dubois,155,87.71,15,F,Badminton,Thai,Beyonder
+00680,Gregorio,Maestas,159,89.06,30,M,Badminton,Thai,Rich Kid
+00681,Nicole,Hodges,156,88.47,41,F,Basketball,Thai,Rama Sport
+00682,Fred,Chandler,176,48.63,19,M,Badminton,Thai,Rich Kid
+00683,Linda,Martin,185,48.4,26,F,PingPong,Korean,Uefa191
+00684,Ronald,Clark,196,44.79,43,M,Tennis,Thai,Uefa191
+00685,Olivia,Wolfe,150,84.39,30,M,Boxing,Thai,Uefa191
+00686,Lionel,Santos,199,96.07,41,M,PingPong,Thai,Superman
+00687,John,Barnette,164,71.42,22,F,PingPong,Thai,Superman
+00688,Shane,Ayala,174,45.69,35,M,PingPong,Thai,Green Sport
+00689,Jose,Golz,159,66.93,20,F,VolleyBall,Thai,KingKong Sport
+00690,Henry,Johannes,150,72.46,31,M,Football,Thai,ICT Sport
+00691,Anthony,New,162,54.67,36,F,Boxing,Thai,Superman
+00692,Kevin,Taylor,191,70.86,18,M,Badminton,Thai,ICT Sport
+00693,Javier,Dubois,157,71.92,35,M,Tennis,Thai,Batman Sport
+00694,Irvin,Roe,189,71.19,27,F,VolleyBall,Thai,Big Boom FC
+00695,Betty,Morgan,199,55.32,24,M,VolleyBall,Thai,KingKong Sport
+00696,Diane,Kearney,168,58.11,18,M,VolleyBall,German,ICT Sport
+00697,Gary,Palka,158,94.18,35,F,Football,Thai,The Best Team
+00698,Brenda,Fimbres,161,41.16,17,M,Badminton,Thai,Big Boom FC
+00699,Noel,Santoyo,157,86.15,27,M,Tennis,Thai,Good Team
+00700,Enrique,Hernandez,167,59.23,30,M,Boxing,Thai,FairPlay Sport
+00701,Aline,Charon,179,81.47,16,M,Basketball,Thai,KingKong Sport
+00702,Wayne,Parker,150,55.12,26,F,Badminton,Canadian,Good Team
+00703,Jennifer,Coley,155,65.95,16,F,Athletic,Thai,The Best Team
+00704,Lea,Chamberlain,185,96.35,28,M,Tennis,Thai,Arm Sport
+00705,William,Anderson,191,88.12,35,M,Badminton,German,Superman
+00706,Shanell,Demar,178,50.67,22,M,Basketball,Thai,Batman Sport
+00707,Milagros,Moore,177,58.18,16,F,Boxing,Thai,Pheonix FC
+00708,Ruth,Ainsworth,175,93.07,17,F,Badminton,Thai,Big Boom FC
+00709,Virgil,Carnes,156,56.73,28,F,VolleyBall,Thai,FairPlay Sport
+00710,Alisa,Rolf,161,75.56,38,M,Badminton,Thai,Green Velvet
+00711,Timothy,Hines,191,57.11,28,F,Basketball,Thai,Green Sport
+00712,Malinda,Calico,198,60.21,19,M,Athletic,Thai,Rama Sport
+00713,Charles,Lundy,162,95.95,23,F,Tennis,Thai,Pheonix FC
+00714,Sharilyn,Dahlstrom,194,50.51,27,F,Badminton,Thai,Big Boom FC
+00715,Raymond,Tote,156,67.7,35,M,VolleyBall,Thai,Green Sport
+00716,Jeffrey,Cooper,161,74.47,33,F,PingPong,Thai,Beyonder
+00717,Lorraine,Sheahan,200,64.96,28,F,Football,Thai,Man Uay FC
+00718,Henry,Zeiler,196,75.28,26,F,Football,Thai,GD Sport
+00719,Terri,White,179,94.33,37,F,Tennis,Thai,One Above All
+00720,Wanda,Catron,176,56.6,29,M,VolleyBall,Thai,Easy Team
+00721,Paul,Miller,172,49.75,19,M,PingPong,Thai,Easy Team
+00722,James,Perez,193,84.85,41,F,Basketball,Thai,Superman
+00723,Lillian,Capulong,164,58.65,44,F,Athletic,Thai,FairPlay Sport
+00724,Essie,Stapleton,190,53.08,38,M,Athletic,Thai,Man Uay FC
+00725,Mercedes,Weiss,169,61.93,15,M,Football,Thai,Batman Sport
+00726,Arthur,Flowers,185,83.99,17,M,Boxing,Thai,GD Sport
+00727,Lewis,Mobilia,158,89.1,43,F,Basketball,Thai,Rich Kid
+00728,Ashlee,Oconnor,180,77.34,28,F,Athletic,Thai,GG Sport
+00729,Carol,Royster,157,77.29,41,F,Football,Thai,Good Team
+00730,Anita,Exum,150,59.41,45,F,Tennis,German,The Best Team
+00731,John,Sorell,188,61.37,37,M,Tennis,Thai,XX Sport
+00732,Kevin,Lowry,158,78.44,29,F,Tennis,Thai,The Best Team
+00733,Richard,Sheridan,168,90.25,30,F,Boxing,Thai,Pheonix FC
+00734,Gloria,Griffin,160,43.66,32,F,Football,German,CC Sport
+00735,Helen,Batte,163,77.61,44,M,Badminton,Thai,Rich Kid
+00736,Boris,Clark,156,65.3,26,M,Badminton,Thai,MM Sport
+00737,Dorothy,Payne,158,56.22,45,M,PingPong,Thai,Good Team
+00738,Mark,Hernandez,189,72.45,30,M,Badminton,Korean,Man Uay FC
+00739,Eva,Williams,155,45.42,38,F,PingPong,Thai,Man Uay FC
+00740,Curtis,Call,158,74.89,31,F,Athletic,Thai,XX Sport
+00741,Charles,Masters,190,50.28,28,F,Football,Thai,Rich Kid
+00742,Larry,Bingham,186,44.31,37,M,Athletic,Thai,Uefa191
+00743,Tiffany,Pierce,198,67.31,42,M,VolleyBall,Thai,Man Uay FC
+00744,Mary,Anthony,171,47.43,31,F,Basketball,Korean,MM Sport
+00745,Eneida,Hucks,182,48.15,31,M,Athletic,Thai,CC Sport
+00746,Barbara,Arnold,174,53.49,21,M,Athletic,Thai,Rama Sport
+00747,Vilma,Couch,189,43.36,27,M,Football,Thai,KingKong Sport
+00748,Lori,Thompson,198,62.26,32,M,Tennis,Thai,One Above All
+00749,Alberto,Fernandez,196,50.53,41,F,PingPong,Thai,Easy Team
+00750,Jeffrey,Stukel,150,70.4,42,M,Tennis,Thai,Uefa191
+00751,Robert,Matthew,199,68.27,29,F,Basketball,Thai,XX Sport
+00752,Krista,Hoyt,188,60.41,45,F,Athletic,Thai,ICT Sport
+00753,Bessie,Powers,171,43.86,22,F,Athletic,Thai,Green Velvet
+00754,James,Serviss,183,80.95,17,F,Football,Canadian,GG Sport
+00755,Alvina,Ryan,187,68.45,38,M,Athletic,Thai,Mahidol Sport
+00756,Robin,Blair,183,54.28,34,M,Badminton,Thai,Easy Team
+00757,Mathew,Dubois,175,91.16,30,F,PingPong,Thai,GD Sport
+00758,Nicole,Sampson,164,45.94,25,M,Badminton,Thai,Mahidol Sport
+00759,Linda,Collins,183,89.87,15,M,Basketball,Thai,MM Sport
+00760,Aaron,Pollack,162,50.58,24,M,VolleyBall,Thai,Beyonder
+00761,Bart,Hanson,174,52.7,38,F,Boxing,Thai,Easy Team
+00762,Domenica,Cabanilla,163,97.12,23,F,Boxing,Thai,Mahidol Sport
+00763,Victoria,Lai,167,42.27,45,F,PingPong,Thai,Batman Sport
+00764,Alfred,Bodenhamer,159,66.03,40,F,Athletic,Thai,Pheonix FC
+00765,Edward,Szczepanek,166,95.43,44,M,Badminton,Korean,One Above All
+00766,Cynthia,Salter,156,60.21,39,F,Boxing,Thai,Beyonder
+00767,Yvonne,Speck,179,76.26,24,F,Football,Thai,Easy Team
+00768,William,Perkins,161,77.8,19,M,PingPong,Thai,Man Uay FC
+00769,Mark,Ranson,152,81.36,20,M,Tennis,Thai,Rama Sport
+00770,John,Jantz,183,86.49,15,M,Tennis,Thai,CC Sport
+00771,Joshua,Carroll,174,47.04,18,F,Football,Thai,Good Team
+00772,Minnie,Muse,159,91.74,27,F,Badminton,Thai,GD Sport
+00773,Edward,Weaver,193,96.84,37,M,Tennis,Canadian,GG Sport
+00774,India,Boese,166,55.19,16,M,Athletic,Thai,XX Sport
+00775,Juanita,Cervantes,190,50.95,28,M,Football,Thai,Rama Sport
+00776,Eleanor,Roberts,176,73.71,43,M,Badminton,Thai,Easy Team
+00777,Barbara,Benfield,193,58.96,37,M,Basketball,Thai,Man Uay FC
+00778,John,Brandon,191,42.6,21,F,PingPong,Thai,GD Sport
+00779,Sean,Powell,181,55.14,42,F,PingPong,Thai,Mahidol Sport
+00780,Ashley,Marshall,180,58.12,18,M,PingPong,Thai,Uefa191
+00781,Rickie,Poplar,192,64.77,31,M,Football,Korean,CC Sport
+00782,David,Synder,162,63.29,29,M,Boxing,Thai,CC Sport
+00783,Barbara,Gentry,178,92.26,15,F,Basketball,Thai,Superman
+00784,Eileen,Fleming,179,65.36,27,M,PingPong,Thai,KingKong Sport
+00785,Geraldine,Zeches,165,46.54,39,M,Badminton,Thai,CC Sport
+00786,Douglas,Bauer,178,63.78,25,F,PingPong,Thai,Rich Kid
+00787,Hector,Lautenschlage,187,80.03,29,M,Boxing,Thai,Uefa191
+00788,Sun,Knight,156,69.14,32,F,Athletic,Thai,FairPlay Sport
+00789,Dennis,Stagg,157,65.69,40,M,Tennis,Thai,Mahidol Sport
+00790,Sherry,Yaple,172,67.16,40,M,Football,Thai,Rama Sport
+00791,John,Burns,172,92.68,22,F,Tennis,Thai,Mahidol Sport
+00792,James,Elias,188,87.01,41,M,Badminton,German,KingKong Sport
+00793,Loren,Reeb,164,64.51,26,F,Badminton,Thai,KingKong Sport
+00794,Dustin,Smith,164,48.03,29,F,Badminton,Thai,MM Sport
+00795,Lewis,Mcannally,154,89.41,20,F,VolleyBall,Thai,Easy Team
+00796,Jeff,Brenneman,151,59.18,43,M,Basketball,German,GD Sport
+00797,Joshua,West,160,94.6,23,F,VolleyBall,Thai,The Best Team
+00798,Carl,Worley,166,72.49,44,F,Badminton,Thai,Green Velvet
+00799,Mariano,Welch,150,53.65,37,M,PingPong,Thai,GD Sport
+00800,Virginia,Burnham,187,91.52,16,M,Basketball,German,Pheonix FC
+00801,Maxine,Logie,197,57.47,45,M,Basketball,Thai,Rich Kid
+00802,Roman,Pan,160,87.19,38,M,Athletic,Thai,One Above All
+00803,Tyrone,Killian,188,88.02,44,M,Tennis,Thai,The Best Team
+00804,Stephanie,Lam,184,62.34,22,M,Football,Thai,Mahidol Sport
+00805,Bobby,Santos,192,56.43,35,M,Basketball,Thai,KingKong Sport
+00806,Robert,Salinas,198,88.55,27,F,PingPong,Thai,Uefa191
+00807,Michael,Fields,185,72.01,19,F,Tennis,Thai,Big Boom FC
+00808,Jeanette,Prince,161,66.6,18,M,Tennis,Thai,Man Uay FC
+00809,Karl,Doyle,175,55.25,23,M,VolleyBall,Thai,GG Sport
+00810,Barb,Garney,196,44.96,33,M,PingPong,Thai,Underdogs Sport
+00811,Debra,Tu,165,58.54,38,F,Boxing,Thai,Uefa191
+00812,Alfredo,Lister,158,81.04,25,F,Boxing,Japanese,GG Sport
+00813,Mable,Watanabe,181,97.58,24,F,PingPong,Thai,Big Boom FC
+00814,Christina,Daugherty,182,95.03,16,M,VolleyBall,Thai,MM Sport
+00815,Evelyn,Peterson,179,77.71,25,M,Badminton,Thai,XX Sport
+00816,Marcos,Benjamin,174,68.98,31,F,Boxing,Thai,GG Sport
+00817,Rose,Gilson,169,58.76,34,F,Tennis,Thai,One Above All
+00818,Elias,Alexander,178,91.41,19,M,Athletic,Thai,Easy Team
+00819,James,Gaston,169,71.56,15,F,Athletic,Thai,Big Boom FC
+00820,Arthur,Mcallister,191,40.28,21,M,Badminton,American,Green Velvet
+00821,Laquita,Turk,169,64.36,32,M,Boxing,Thai,XX Sport
+00822,Laurel,Rau,200,87.88,44,F,VolleyBall,Thai,Mahidol Sport
+00823,William,Infante,152,97.52,38,M,Boxing,Thai,Green Sport
+00824,Ronald,Tate,175,55.51,23,M,Basketball,Thai,Green Sport
+00825,Angel,Folks,166,42.78,17,M,Badminton,Thai,Green Velvet
+00826,Jack,Malone,182,88.94,33,M,Badminton,Thai,Easy Team
+00827,Doris,Isaksen,162,74.66,38,M,Basketball,Thai,Arm Sport
+00828,Jacqueline,Hudson,158,60.33,15,F,PingPong,Thai,KingKong Sport
+00829,James,Trautman,168,57.41,40,F,Boxing,Thai,Big Boom FC
+00830,Betty,Lowery,167,56.41,30,F,Basketball,Thai,Pheonix FC
+00831,Danielle,Sutton,188,61.35,35,F,PingPong,Canadian,ICT Sport
+00832,Dianne,Ballou,187,78.01,16,M,Boxing,Thai,One Above All
+00833,Sharilyn,Meacham,163,82.77,24,M,Tennis,Thai,GD Sport
+00834,Barbara,Longway,170,86.28,22,F,PingPong,Thai,Superman
+00835,Cynthia,Hensley,181,41.54,25,F,Football,Thai,XX Sport
+00836,Gregory,Grant,192,88.01,25,F,PingPong,Thai,Superman
+00837,David,Mcmaster,170,48.96,23,M,Basketball,Thai,MM Sport
+00838,Elaine,Burgess,187,56.13,37,F,Athletic,Thai,Rama Sport
+00839,George,Sheffer,150,48.81,24,F,Athletic,Thai,XX Sport
+00840,Marilyn,Mcdonald,173,93.74,15,M,Athletic,Thai,Pheonix FC
+00841,Christopher,Ross,163,76.54,41,F,PingPong,Thai,Uefa191
+00842,Dean,Perdue,151,81.9,28,M,Boxing,American,Rama Sport
+00843,Sean,Pirtle,200,60.94,23,M,Athletic,Thai,Arm Sport
+00844,Brett,Mccauley,186,56.51,24,M,Badminton,Korean,Man Uay FC
+00845,Douglas,Burton,182,82.22,40,F,Boxing,Thai,Green Sport
+00846,Arleen,Meade,196,59.31,45,M,Football,Korean,Uefa191
+00847,Andrea,Rubin,192,64.35,34,M,Basketball,Thai,Batman Sport
+00848,Ivan,Rothfuss,177,72.95,35,F,Boxing,Thai,GG Sport
+00849,James,Schattner,166,96.0,28,F,Badminton,Thai,GG Sport
+00850,Kristin,Cox,177,53.57,18,F,Badminton,Thai,Rama Sport
+00851,Helen,Christensen,189,78.46,24,M,Boxing,Korean,Underdogs Sport
+00852,Jose,Chilson,183,63.51,19,F,Badminton,Thai,Underdogs Sport
+00853,Matthew,Rissell,151,54.89,24,F,Athletic,Thai,Superman
+00854,Janette,Newton,155,54.89,18,F,Tennis,Thai,Green Sport
+00855,Linda,Pawlosky,168,85.44,16,F,Football,Thai,MM Sport
+00856,Nancy,Mendez,190,40.3,30,F,Football,Thai,The Best Team
+00857,David,Palmer,177,70.13,43,M,Tennis,Thai,One Above All
+00858,Kimberly,Christen,199,61.67,21,F,Football,Thai,Underdogs Sport
+00859,Laurie,Pinkert,165,49.21,35,M,VolleyBall,Thai,Batman Sport
+00860,Dorian,Hollenbach,166,85.0,25,F,Athletic,Thai,FairPlay Sport
+00861,Danny,Conn,196,61.21,22,F,Football,Thai,The Best Team
+00862,Dana,Horton,194,45.25,34,M,Tennis,Thai,Pheonix FC
+00863,Darlene,Meadows,182,83.01,30,F,VolleyBall,Thai,KingKong Sport
+00864,Brandon,Mercado,198,64.45,42,M,VolleyBall,Thai,Man Uay FC
+00865,Nicole,Howard,168,63.19,26,M,Tennis,Thai,Beyonder
+00866,William,Webb,199,68.58,26,F,VolleyBall,Thai,Rich Kid
+00867,Alice,Williams,188,73.27,16,M,Football,Thai,Green Velvet
+00868,Larry,Bannon,178,83.63,23,M,Badminton,Thai,Rama Sport
+00869,Belinda,Ferguson,168,63.24,24,M,Football,Thai,Rama Sport
+00870,Emily,Coston,187,98.47,25,F,Football,Thai,Superman
+00871,Jennifer,Bertozzi,181,46.37,17,M,Tennis,Thai,FairPlay Sport
+00872,Marie,Hulsey,200,76.54,15,M,Football,Thai,Batman Sport
+00873,Edith,Mason,182,75.87,31,M,Athletic,Thai,Rich Kid
+00874,Francis,Jackson,150,49.64,36,F,Basketball,Thai,CC Sport
+00875,Carolyn,Rountree,160,47.26,35,F,Badminton,Thai,Pheonix FC
+00876,Marlene,Alton,157,72.47,20,F,VolleyBall,Thai,Good Team
+00877,Byron,Allen,152,42.73,41,M,Tennis,Thai,ICT Sport
+00878,Glenna,Bockelman,166,69.16,24,F,Boxing,Thai,The Best Team
+00879,Justin,Bear,162,56.58,19,F,PingPong,Canadian,Green Sport
+00880,Art,Tsang,180,88.64,28,M,Athletic,Thai,GD Sport
+00881,Lawrence,Rawlins,199,57.09,40,M,Badminton,Thai,Rama Sport
+00882,Mary,Moriarty,160,50.87,22,F,Tennis,Thai,Batman Sport
+00883,Sara,Zammetti,198,96.6,26,F,PingPong,American,Arm Sport
+00884,Ted,Brown,188,51.31,36,M,Athletic,Thai,Rich Kid
+00885,Christine,Anderson,189,48.75,41,F,Badminton,Thai,Rama Sport
+00886,Linda,Miner,170,63.07,35,F,VolleyBall,Thai,ICT Sport
+00887,Gloria,Fawcett,183,67.69,30,F,Football,Thai,Arm Sport
+00888,Jonathan,Sebastian,200,88.35,43,F,Boxing,Thai,KingKong Sport
+00889,Steven,Schooler,189,89.38,29,M,PingPong,Thai,XX Sport
+00890,William,Kiely,189,67.66,45,M,Badminton,Japanese,Mahidol Sport
+00891,Duane,Burns,154,48.7,29,M,Football,Thai,GG Sport
+00892,Ana,Youngdahl,165,93.74,39,M,Badminton,Thai,Underdogs Sport
+00893,Angelica,Morse,195,98.66,36,F,Tennis,Thai,Superman
+00894,Willie,Wilson,177,76.99,35,F,Tennis,Thai,Superman
+00895,Donald,Kellogg,186,84.01,32,F,Athletic,Thai,KingKong Sport
+00896,Emilia,Freeman,172,41.54,26,F,Football,Thai,GG Sport
+00897,Karen,Butterworth,198,40.55,39,M,PingPong,Thai,Rich Kid
+00898,Brandy,Holcomb,155,43.85,38,M,Basketball,Thai,MM Sport
+00899,Teresa,Ames,163,86.58,40,M,Badminton,Thai,MM Sport
+00900,Pedro,Nobles,188,77.45,26,M,Badminton,Thai,Rich Kid
+00901,Amber,Drain,186,50.4,15,M,PingPong,German,Batman Sport
+00902,Eric,Mathis,177,49.25,38,M,PingPong,Thai,Underdogs Sport
+00903,Timothy,Brown,186,94.72,30,F,Boxing,Thai,KingKong Sport
+00904,Leona,Conn,162,53.29,34,F,Badminton,Canadian,Rich Kid
+00905,Colleen,Mason,162,87.82,21,M,Athletic,Thai,Pheonix FC
+00906,Sandy,German,183,41.82,17,M,Badminton,Thai,FairPlay Sport
+00907,Dorothy,Lewis,189,91.13,21,M,PingPong,Thai,FairPlay Sport
+00908,Nancy,Meadows,175,43.04,28,F,Badminton,Thai,Pheonix FC
+00909,Jessica,Oh,173,60.24,37,F,Badminton,Thai,MM Sport
+00910,Roslyn,Hall,150,62.43,26,M,Athletic,Thai,Good Team
+00911,Lena,Kilcoyne,156,83.91,28,M,Badminton,Thai,Underdogs Sport
+00912,Clifton,Wilson,197,79.25,18,M,PingPong,Thai,MM Sport
+00913,Heather,Nunez,192,89.44,15,M,Football,Thai,GG Sport
+00914,Debra,Jorgensen,178,46.85,15,M,Athletic,Thai,Good Team
+00915,Hui,Woody,191,43.21,21,M,Tennis,Thai,Easy Team
+00916,Arturo,Roberts,150,83.06,25,M,Basketball,Thai,GG Sport
+00917,Doris,Marsala,150,58.51,18,M,PingPong,Thai,Man Uay FC
+00918,Wilma,Harvey,194,95.36,18,M,Basketball,Thai,Arm Sport
+00919,Wendy,Wolf,193,63.72,30,M,VolleyBall,Thai,One Above All
+00920,Eddie,Shaw,177,68.04,35,F,Athletic,Thai,Beyonder
+00921,Anthony,Hudson,159,49.06,33,F,PingPong,Thai,Green Velvet
+00922,Michael,Visher,200,74.17,43,F,Basketball,Thai,Easy Team
+00923,Angie,Blain,185,78.46,29,M,Badminton,German,GG Sport
+00924,Cynthia,Lewis,153,61.14,32,M,VolleyBall,Thai,Good Team
+00925,Deborah,Galbo,199,79.6,44,M,Athletic,Thai,Easy Team
+00926,Clayton,Chambers,187,58.2,41,F,Basketball,Thai,Rama Sport
+00927,Morris,Mann,199,45.89,39,F,Badminton,Thai,Rama Sport
+00928,Matthew,Currie,185,99.71,25,F,Football,Thai,Rich Kid
+00929,Linda,Bush,169,50.29,23,M,Football,Thai,Underdogs Sport
+00930,Linda,Bates,174,54.61,30,F,Basketball,Korean,Easy Team
+00931,Calvin,Botelho,178,65.58,25,M,PingPong,Thai,XX Sport
+00932,Frances,Taylor,162,98.12,15,F,Boxing,Thai,Batman Sport
+00933,Alice,Sims,158,47.28,33,F,PingPong,Korean,Superman
+00934,Donald,Vernon,182,54.72,20,M,Football,Thai,Green Velvet
+00935,John,Mcalister,186,97.82,30,M,PingPong,Thai,Arm Sport
+00936,Stephen,Butcher,193,75.76,41,M,Tennis,Thai,Big Boom FC
+00937,Jordan,Helbert,160,63.79,22,F,PingPong,Thai,MM Sport
+00938,Eugene,Park,173,50.55,28,M,PingPong,Thai,Easy Team
+00939,Anthony,Crowe,154,75.25,24,M,Badminton,Thai,Mahidol Sport
+00940,Hyun,Benitez,160,58.65,36,F,PingPong,Thai,KingKong Sport
+00941,Sylvia,Gatlin,190,53.72,34,F,Badminton,Thai,KingKong Sport
+00942,Michelle,Lucas,186,54.81,25,M,Football,Thai,MM Sport
+00943,Katie,Delgado,188,52.46,33,F,Badminton,Thai,Easy Team
+00944,Molly,Boudreaux,173,43.55,26,F,Boxing,Thai,Underdogs Sport
+00945,Nichole,Lyon,179,60.32,32,F,Athletic,Thai,FairPlay Sport
+00946,Corey,Polanski,177,56.78,32,F,Boxing,Thai,Uefa191
+00947,Linda,Hermosillo,154,51.83,26,M,Tennis,Thai,Easy Team
+00948,Gayla,Lasher,158,81.38,24,M,Badminton,Korean,GG Sport
+00949,Fredrick,Fant,153,77.2,39,M,Athletic,Korean,MM Sport
+00950,Karin,Brahler,192,89.57,43,F,Football,Canadian,Mahidol Sport
+00951,Virginia,Lowenstein,174,41.92,17,F,Basketball,Thai,Mahidol Sport
+00952,Peggy,Andrade,167,91.67,38,M,Badminton,Thai,The Best Team
+00953,Clayton,Chapman,193,78.76,35,F,PingPong,Thai,Big Boom FC
+00954,Ella,Polk,175,48.17,32,M,Tennis,Thai,The Best Team
+00955,Joan,Gold,152,99.38,24,M,Boxing,Thai,Underdogs Sport
+00956,Sharon,Salcedo,177,48.47,45,F,VolleyBall,German,Beyonder
+00957,Burt,Bachand,180,68.3,20,M,Football,Thai,MM Sport
+00958,Jeffrey,Gordy,187,84.91,35,F,PingPong,Thai,Rama Sport
+00959,Rolando,Johnson,174,62.58,30,F,Athletic,Thai,Easy Team
+00960,Linda,Stieger,169,83.81,15,M,Badminton,Thai,The Best Team
+00961,Barry,Brooks,174,70.57,35,F,Tennis,Thai,Easy Team
+00962,Steven,Gochenour,175,93.35,30,M,VolleyBall,Thai,MM Sport
+00963,Joseph,Emerick,194,52.0,36,M,Boxing,German,GD Sport
+00964,Justin,Dacey,150,67.53,36,M,PingPong,German,Big Boom FC
+00965,Ardath,Eggimann,181,93.75,37,M,Badminton,Korean,FairPlay Sport
+00966,Gerald,Bialaszewski,177,90.72,17,F,Tennis,Thai,Beyonder
+00967,Michael,Wyatt,174,58.65,18,M,Tennis,Canadian,One Above All
+00968,Laura,Craig,174,65.19,25,F,Athletic,Thai,Beyonder
+00969,Elizabeth,Thompson,180,73.01,24,F,Tennis,Thai,Big Boom FC
+00970,Norman,Todd,174,62.97,38,F,Athletic,Thai,Arm Sport
+00971,Doris,Cosby,178,51.79,42,M,Football,Thai,GD Sport
+00972,Harold,Owen,186,63.66,26,M,VolleyBall,Thai,One Above All
+00973,Alta,Silvia,186,58.21,29,F,Basketball,Thai,Underdogs Sport
+00974,Dionna,Simpson,186,41.26,17,F,Football,Japanese,Superman
+00975,Nona,Sebring,182,43.02,15,M,VolleyBall,Thai,Beyonder
+00976,John,Smith,191,88.49,42,F,Tennis,Thai,XX Sport
+00977,Daniel,Saucier,195,96.42,26,F,Football,Thai,Man Uay FC
+00978,Matthew,Scruggs,182,46.9,34,M,Badminton,Thai,Man Uay FC
+00979,James,Wallace,178,94.58,27,F,Tennis,Thai,KingKong Sport
+00980,Jennifer,Kane,199,93.38,29,M,Badminton,Thai,KingKong Sport
+00981,Rose,Ater,179,75.94,40,M,VolleyBall,Thai,Pheonix FC
+00982,Frances,Ovalle,157,61.74,39,F,Tennis,Thai,Big Boom FC
+00983,Helen,Rosa,185,72.84,41,F,PingPong,Thai,Green Sport
+00984,Anna,Pope,200,97.41,15,F,Tennis,Thai,Green Sport
+00985,Marie,Pumphrey,161,84.24,38,F,VolleyBall,Thai,Pheonix FC
+00986,Harold,Cable,190,89.24,43,F,Tennis,Thai,GD Sport
+00987,Karan,Adams,180,83.35,40,F,Badminton,Thai,CC Sport
+00988,Kathy,Mayes,196,91.55,19,F,Football,Thai,Mahidol Sport
+00989,Marisol,Cox,174,59.8,28,M,Tennis,Thai,Batman Sport
+00990,Precious,Greene,188,55.89,20,F,Athletic,Korean,One Above All
+00991,Rosa,Whitworth,161,67.01,33,F,Tennis,Thai,GG Sport
+00992,Sonya,Mcewen,194,55.08,44,F,Athletic,Thai,MM Sport
+00993,Virginia,Adams,173,57.49,23,M,Athletic,Thai,Underdogs Sport
+00994,Betty,Trask,166,69.77,22,M,Boxing,Thai,The Best Team
+00995,Cameron,Ratermann,189,55.33,19,F,PingPong,Korean,Man Uay FC
+00996,Anne,Staples,173,87.99,23,M,Athletic,Canadian,Uefa191
+00997,Michael,Collins,182,72.3,15,F,Boxing,Thai,Mahidol Sport
+00998,Hazel,Truax,195,60.0,20,F,PingPong,Thai,Underdogs Sport
+00999,Lloyd,White,161,65.38,34,F,Tennis,Thai,Green Velvet

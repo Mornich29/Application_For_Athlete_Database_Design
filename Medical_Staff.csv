@@ -1,0 +1,71 @@
+Medical_Staff_ID,FirstName,LastName,Branch,Position,Phone
+0,Carmelita,Federico,Internists,Leader,086-760-4853
+1,Brian,Wilkowitz,Hematologists,Assistant,085-387-8997
+2,Clarence,Cusack,Psycologist,Assistant,087-883-1751
+3,Kevin,Garica,Nephrologists,Leader,082-850-7652
+4,Stephen,Harris,Internists,Assistant,082-316-0420
+5,Eileen,Kunze,Ophthalmologists,Assistant,087-689-1579
+6,Jordan,Daniels,Psycologist,Assistant,083-955-7069
+7,Carol,Ebert,Dermatologists,Assistant,080-687-0651
+8,Santiago,Clark,Ophthalmologists,Leader,093-446-7189
+9,James,Ball,Endocrinologists,Assistant,089-991-7682
+10,Sandra,Vogel,Endocrinologists,Assistant,085-582-2193
+11,Tyrone,Dunham,Cardiologists,Assistant,092-720-6144
+12,Virgil,Melendez,Cardiologists,Assistant,089-855-2071
+13,Barbara,Esperanza,Endocrinologists,Assistant,088-179-2793
+14,Roxanne,Sanford,Psycologist,Assistant,087-843-5615
+15,Joann,Stevens,Dermatologists,Assistant,089-133-7060
+16,Briana,Matthews,Critical Care Medicine Specialists,Leader,083-684-6360
+17,Jerry,Martinez,Endocrinologists,Assistant,083-190-7284
+18,Marion,Carney,Neurologists,Leader,092-872-7971
+19,Tina,Toney,Dermatologists,Leader,084-916-2918
+20,Matthew,Fuller,Psycologist,Assistant,088-801-9437
+21,Dennis,Martin,Hematologists,Leader,083-651-5745
+22,John,Ramirez,Neurologists,Assistant,092-429-9802
+23,Jeanne,Christiansen,Endocrinologists,Leader,092-249-0127
+24,Christopher,Feezell,Nephrologists,Leader,082-055-3654
+25,Rina,Peters,Neurologists,Assistant,090-247-9648
+26,Nery,Belden,Psycologist,Assistant,093-092-0288
+27,Tiffany,Mangels,Hematologists,Assistant,086-558-9667
+28,Carol,Brown,Internists,Assistant,083-235-7222
+29,Ali,Ramsey,Internists,Assistant,088-960-6575
+30,Kenneth,Heller,Endocrinologists,Assistant,092-039-0857
+31,Enrique,Bitner,Nephrologists,Assistant,080-103-5385
+32,Gina,Salter,Nephrologists,Assistant,081-166-1771
+33,Megan,Hunt,Critical Care Medicine Specialists,Assistant,081-948-2486
+34,Brad,Smith,Nephrologists,Assistant,084-219-6414
+35,Luann,Keyes,Neurologists,Assistant,093-666-4523
+36,James,Johnson,Cardiologists,Assistant,092-586-3517
+37,Jeff,Gish,Cardiologists,Leader,087-893-6837
+38,Rebecca,Robertson,Dermatologists,Assistant,090-892-4176
+39,Michele,Murray,Critical Care Medicine Specialists,Assistant,084-265-5908
+40,Joseph,Moser,Cardiologists,Assistant,082-524-4145
+41,Sherry,Royster,Internists,Assistant,080-233-1321
+42,Florence,Kester,Endocrinologists,Assistant,083-399-3252
+43,Michael,Taylor,Critical Care Medicine Specialists,Assistant,093-203-9539
+44,Casey,Legg,Internists,Assistant,083-394-8715
+45,John,Allen,Cardiologists,Leader,086-975-0978
+46,Perry,Reynolds,Hematologists,Assistant,088-089-7888
+47,Francis,Grant,Nephrologists,Assistant,084-400-0082
+48,Norman,Obrien,Hematologists,Assistant,093-693-5698
+49,Johnnie,Lewis,Ophthalmologists,Assistant,085-562-5937
+50,Susan,Tedrick,Internists,Assistant,083-368-1674
+51,Stephen,Davis,Endocrinologists,Assistant,089-319-8078
+52,Gary,Stone,Critical Care Medicine Specialists,Assistant,082-555-5118
+53,Madeline,Stover,Ophthalmologists,Assistant,090-442-9346
+54,James,Lamberth,Ophthalmologists,Assistant,092-692-8076
+55,James,Kerce,Dermatologists,Assistant,090-855-1376
+56,Monique,Summers,Endocrinologists,Assistant,091-011-7080
+57,Joel,Whipple,Internists,Assistant,088-451-8613
+58,Michael,Lepage,Neurologists,Assistant,087-513-7636
+59,Kurt,Hussey,Critical Care Medicine Specialists,Assistant,086-672-6701
+60,Nancy,Hooper,Neurologists,Assistant,092-388-4525
+61,Ruth,Flanagan,Cardiologists,Assistant,086-140-3108
+62,Kathrine,Ellis,Hematologists,Assistant,084-314-3523
+63,Kimberly,Leone,Nephrologists,Assistant,089-163-5018
+64,Jennifer,Mullins,Internists,Assistant,081-323-3407
+65,Scott,Hipple,Internists,Assistant,089-798-8437
+66,Shantelle,Gunderman,Internists,Assistant,087-624-9706
+67,Tiffani,Pavlick,Endocrinologists,Assistant,082-049-5241
+68,Don,Trout,Endocrinologists,Assistant,093-309-2283
+69,Mark,Smith,Ophthalmologists,Assistant,093-936-8119
